@@ -1,0 +1,14 @@
+.hello-world {
+  display: flex;
+  flex-direction: column;
+  .logo {
+    width: 200px;
+    margin: auto;
+    img {
+      width: 100%;
+    }
+  }
+  .content {
+    margin: auto;
+  }
+}
